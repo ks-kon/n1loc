@@ -2,6 +2,6 @@
 
 int main()
 {
-
+	std::cout << "test commit" << std::endl;
 	return EXIT_SUCCESS;
 }
